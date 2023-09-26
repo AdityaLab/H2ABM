@@ -15,7 +15,7 @@ source activate ./envs/hhabm
 
 ```
 -data
-	- synthetic.pkl -> save synthetic hypergraphs as pkl file
+       - synthetic.pkl -> save synthetic hypergraphs as pkl file
        - synthetic.csv -> save synthetic number of cases as csv file
 - model.py -> implementation of Hypergraph-HeterSIS model
 - calibrateh.py -> calibrate the Hypergraph-HeterSIS model to the synthetic number of cases
@@ -34,6 +34,7 @@ We provde a demo code to calibrate the Hypergraph-HeterSIS model and calculate t
 Run:
 
 ```
+chmod 777 run.sh
 ./run.sh
 ```
 This will save the results (NRMSE, ND, and Pearson correlation value) in `output/result.csv`

@@ -1,4 +1,14 @@
-# H2ABM: Heterogeneous Agent-based Model on Hypergraphs to Capture Group Interactions
+# [SDM 2024] H2ABM: Heterogeneous Agent-based Model on Hypergraphs to Capture Group Interactions
+
+## Publication
+
+Implementation of the paper "H2ABM: Heterogeneous Agent-based Model on Hypergraphs to Capture Group Interactions."
+
+Authors: Vivek Anand*, Jiaming Cui*, Jack Heavey, Anil Vullikanti, B. Aditya Prakash
+
+*Equal contribution
+
+Venue: SDM 2024
 
 ## Setup
 

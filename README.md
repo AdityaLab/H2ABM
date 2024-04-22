@@ -48,3 +48,17 @@ chmod 777 run.sh
 ./run.sh
 ```
 This will save the results (NRMSE, ND, and Pearson correlation value) in `output/result.csv`
+
+## Cite our work
+If you find our work useful, please cite our work:
+- Vivek Anand, Jiaming Cui, Jack Heavey, Anil Vullikanti, B. Aditya Prakash. H2ABM: Heterogeneous Agent-based Model on Hypergraphs to Capture Group Interactions. SDM 2024.
+```
+@inproceedings{anand2024h2abm,
+  title={},
+  author={Anand, Vivek and Cui, Jiaming and Heavey, Jack and Vullikanti, Anil and Prakash, B Aditya},
+  booktitle={Proceedings of the 2024 SIAM International Conference on Data Mining (SDM)},
+  pages={280--288},
+  year={2024},
+  organization={SIAM}
+}
+```

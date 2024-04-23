@@ -10,6 +10,10 @@ Authors: Vivek Anand*, Jiaming Cui*, Jack Heavey, Anil Vullikanti, B. Aditya Pra
 
 Venue: SDM 2024
 
+Link to the paper: https://sites.cc.gatech.edu/~jcui75/papers/h2abm-sdm24.pdf
+
+We also release an anonymized version of the UVA dataset at: https://github.com/AdityaLab/UVA-Hypergraph/
+
 ## Setup
 
 First install Anaconda. The dependencies are listed in `environment.yml` file. 
